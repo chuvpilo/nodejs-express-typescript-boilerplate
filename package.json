@@ -1,0 +1,24 @@
+{
+  "name": "api-reactor",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herofy/api-reactor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herofy/api-reactor/issues"
+  },
+  "homepage": "https://github.com/herofy/api-reactor#readme"
+}
