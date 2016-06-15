@@ -1,9 +1,8 @@
 /*
- * (C) Gleb Chuvpilo
- * Created: June 11, 2016
- * Updated: June 14, 2016
+ * Gleb Chuvpilo
+ * Created: June 14, 2016
  */
-/// <reference path="./typings/index.d.ts" />
+ /// <reference path="./typings/index.d.ts" />
 'use strict';
 var express = require("express");
 var app = express();
