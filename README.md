@@ -8,6 +8,7 @@ Next, run these commands:
 
 ```
 $ git clone https://github.com/chuvpilo/nodejs-express-typescript-boilerplate
+$ cd nodejs-express-typescript-boilerplate
 $ npm install
 $ typings install
 ```
