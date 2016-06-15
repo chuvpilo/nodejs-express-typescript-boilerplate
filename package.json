@@ -1,7 +1,7 @@
 {
-  "name": "api-reactor",
+  "name": "nodejs-express-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "API",
+  "description": "Node.js + Express + Typescript Boilerplate",
   "main": "app.js",
   "dependencies": {
     "express": "^4.13.4"
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/herofy/api-reactor.git"
+    "url": "git+https://github.com/chuvpilo/nodejs-express-typescript-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/herofy/api-reactor/issues"
+    "url": "https://github.com/chuvpilo/nodejs-express-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/herofy/api-reactor#readme"
+  "homepage": "https://github.com/chuvpilo/nodejs-express-typescript-boilerplate"
 }
